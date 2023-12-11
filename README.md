@@ -9,7 +9,7 @@ Youtube is a popular online video sharing and social media platform owned and op
 2. Technology Stacks 
 3. Usage
 4. Project Workflow
-5. Data Scapping
+5. Data Scrapping
 6. Storing in MongoDB
 7. Migrating to MySQL
 8. Querying
