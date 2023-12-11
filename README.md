@@ -36,14 +36,15 @@ pip install plotly-express
 - API Integration - Google API
 
 ## Usage
-Clone the repo from the below mentioned link.
+Clone the repo from the below mentioned link.  
 [Youtube-Data-Harvesting-and-Warehousing](https://github.com/Chindhu-Alagappan/Youtube-Data-Harvesting-and-Warehousing.git)  
-Install packages from requirement.txt  
+Install packages from "requirement.txt"  
 Run the streamlit application using `streamlit run .\youtube_data_scrapping.py`  
-View the portal in (http://localhost:8501/)  
+View the portal in your [localhost](http://localhost:8501/)  
 
 ## Project Workflow
-The below diagram depicts the flowchart of the youtube data analysis.
+The below diagram depicts the flowchart of the youtube data analysis.  
+![YoutubeProjectFlow](https://github.com/Chindhu-Alagappan/Youtube-Data-Harvesting-and-Warehousing/blob/1d653b916b6fe4644bb11e49bb5ace72f2440900/YoutubeProjectFlow.png)   
 
 ## Data Scrapping 
 The project uses Google API key to connect with youtube API and fetch the all details about the channel, given the channel ID. Further the data scrapped is presented in JSON format to users of the streamit application.
@@ -102,7 +103,7 @@ The project can further be enhanced by performing sentimental analysis on the vi
 If you encounter any issues or have suggestions for improvements, feel free to reach out.  
   
 Email : *chindhual@gmail.com*  
-LinkedIn : (https://www.linkedin.com/in/chindhu-alagappan-57605112a/)  
+LinkedIn : *https://www.linkedin.com/in/chindhu-alagappan-57605112a/*
   
 Thanks for showing interest in this repository ! 
 
