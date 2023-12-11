@@ -1,0 +1,10 @@
+# packages need to be installed to run the project
+# To install use command pip install -r requirement.txt
+streamlit
+google-api-python-client
+pymongo
+mysql-connector-python
+isodate
+pandas
+plotly-express
+pprintpp
