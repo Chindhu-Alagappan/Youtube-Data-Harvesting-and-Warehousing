@@ -7,4 +7,3 @@ mysql-connector-python
 isodate
 pandas
 plotly-express
-pprintpp
